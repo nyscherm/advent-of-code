@@ -1,0 +1,17 @@
+{
+  "name": "advent-of-code",
+  "version": "1.0.0",
+  "description": "Advent of code solutions",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier . --write",
+    "ts": "ts-node"
+  },
+  "author": "Nicole Scherm",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.10.3",
+    "prettier": "3.1.0",
+    "typescript": "^5.3.2"
+  }
+}
